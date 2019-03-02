@@ -2,7 +2,7 @@
 var Omdb = require("./omdb.js");
 
 // create a new instance of omdb, passing in our api key
-var omdb = new Omdb("trilogy");
+var omdb = new Omdb("YOUR_KEY_HERE");
 
 // TO DO: once the omdb module is finished, run the "search" method and "get" method here and console.log the returned data.
 
